@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javaPi-2.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/javaPi-2.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
